@@ -2,7 +2,7 @@
 
 This ia a Ruby program that uses the Google Maps API and Pirate Weather API to tell the user whether or not they should carry an umbrella with them when they leave home.
 The program:
-  - Ask the user for their location. (Recall gets.)
+  - Ask the user for their location. 
 
   - Get and store the user’s location.
 
